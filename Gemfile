@@ -16,6 +16,7 @@ gem "font-awesome-sass", "~> 6.4.0"
 gem "simple_form"
 gem "haml-rails", "~> 2.0"
 gem "faker"
+gem "devise"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
