@@ -105,8 +105,8 @@ GEM
     faker (3.2.0)
       i18n (>= 1.8.11, < 2)
     ffi (1.15.5)
-    font-awesome-sass (6.4.0)
-      sassc (~> 2.0)
+    font-awesome-rails (4.7.0.8)
+      railties (>= 3.2, < 8.0)
     globalid (1.1.0)
       activesupport (>= 5.0)
     haml (6.1.1)
@@ -270,7 +270,7 @@ DEPENDENCIES
   debug
   devise
   faker
-  font-awesome-sass (~> 6.4.0)
+  font-awesome-rails
   haml-rails (~> 2.0)
   image_processing (~> 1.2)
   importmap-rails

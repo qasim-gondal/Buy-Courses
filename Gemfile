@@ -12,7 +12,7 @@ gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 gem "bootstrap", "~> 5.3.0.alpha3"
-gem "font-awesome-sass", "~> 6.4.0"
+gem "font-awesome-rails"
 gem "simple_form"
 gem "haml-rails", "~> 2.0"
 gem "faker"
